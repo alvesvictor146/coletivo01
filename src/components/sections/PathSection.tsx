@@ -18,7 +18,7 @@ export const PathSection: React.FC = () => {
           </p>
         </div>
         <img
-          src="/assets/caminho-D-HPQQFl.jpg"
+          src="./assets/caminho-D-HPQQFl.jpg"
           alt="Vista da estrada descendo em direção às serras da Chapada"
           width={1600}
           height={1008}

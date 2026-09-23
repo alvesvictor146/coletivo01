@@ -5,7 +5,7 @@ export const MysticSection: React.FC = () => {
   return (
     <section className="relative overflow-hidden">
       <img
-        src="/assets/mistica-BHchRb06.jpg"
+        src="./assets/mistica-BHchRb06.jpg"
         alt="Horizonte do Cerrado ao anoitecer"
         width={1600}
         height={912}

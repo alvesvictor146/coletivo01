@@ -7,7 +7,7 @@ export const HeroSection: React.FC = () => {
   return (
     <section id="inicio" className="relative min-h-[100svh] w-full overflow-hidden">
       <img
-        src="/assets/hero-estrada-CnbYba5s.jpg"
+        src="./assets/hero-estrada-CnbYba5s.jpg"
         alt="Estrada do Cerrado com as serras da Chapada dos Veadeiros no horizonte"
         width={1920}
         height={1280}

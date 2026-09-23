@@ -210,32 +210,32 @@ export interface Attraction {
 export const ATTRACTIONS: Attraction[] = [
   {
     nome: 'Vale da Lua',
-    img: '/assets/vale-da-lua-DI8FLlxp.jpg',
+    img: './assets/vale-da-lua-DI8FLlxp.jpg',
     desc: 'Rocha esculpida pelo rio São Miguel, com formas que parecem de outro planeta.'
   },
   {
     nome: 'Cachoeira Santa Bárbara',
-    img: '/assets/santa-barbara-q3_PN645.jpg',
+    img: './assets/santa-barbara-q3_PN645.jpg',
     desc: 'Águas de um azul improvável entre paredões e vegetação fechada.'
   },
   {
     nome: 'Mirante da Janela',
-    img: '/assets/mirante-janela-DWBN6Ji1.jpg',
+    img: './assets/mirante-janela-DWBN6Ji1.jpg',
     desc: 'Um recorte na pedra que enquadra o vale e o horizonte da Chapada.'
   },
   {
     nome: 'Cataratas dos Couros',
-    img: '/assets/couros-DQ9Gw2-3.jpg',
+    img: './assets/couros-DQ9Gw2-3.jpg',
     desc: 'Conjunto de quedas largas em meio ao Cerrado aberto.'
   },
   {
     nome: 'Cachoeira do Segredo',
-    img: '/assets/segredo-LRN69I0f.jpg',
+    img: './assets/segredo-LRN69I0f.jpg',
     desc: 'Queda escondida em um cânion estreito, com poço profundo e sombra.'
   },
   {
     nome: 'Complexo Canjica',
-    img: '/assets/canjica-Ww7y9fix.jpg',
+    img: './assets/canjica-Ww7y9fix.jpg',
     desc: 'Sequência de quedas e piscinas naturais sobre rocha avermelhada.'
   }
 ];

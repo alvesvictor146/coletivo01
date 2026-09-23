@@ -6,7 +6,7 @@ export const CtaHorizonSection: React.FC = () => {
   return (
     <section className="relative overflow-hidden">
       <img
-        src="/assets/cta-horizonte-CVWEc-a7.jpg"
+        src="./assets/cta-horizonte-CVWEc-a7.jpg"
         alt="Estrada ao entardecer em direção às serras da Chapada"
         width={1920}
         height={1088}
